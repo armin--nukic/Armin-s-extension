@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Mr. Armin Nukic",
+    "description": "Quick launch Armin's profiles",
+    "version": "1.0.0",
+    "icons": {"128": "ArminLogo.PNG"},
+    "browser_action":{
+        "default_icon": "ArminLogo.PNG",
+        "default_popup": "popup.html"
+},
+    "permissions": ["activeTab"]
+}
